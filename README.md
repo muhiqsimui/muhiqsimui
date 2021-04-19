@@ -1,5 +1,8 @@
 ### Hi there, I'm Iqbal - aka [Muhiqsimui]
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=muhiqsimui.muhiqsimui)
+</details>
+
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=plastic&logo=Gmail&link=mailto:muhiqsimui@gmail.com)](mailto:muhiqsimui@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&link=https://id.linkedin.com/in/muhiqsimui)](https://id.linkedin.com/in/muhiqsimui) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-white?style=plastic&logo=instagram&link=https://www.instagram.com/muhiqsimui/)](https://www.instagram.com/muhiqsimui/)
@@ -29,8 +32,7 @@
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=muhiqsimui&theme=cobalt&show_icons=true)](https://github.com/muhiqsimui)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhiqsimui&hide=TeX&layout=compact&theme=cobalt)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=muhiqsimui.muhiqsimui)
-</details>
+
     
 
 ## Languages ➡️
