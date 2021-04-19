@@ -20,7 +20,7 @@
  
 ## Stat Github
 
-<img align="left" alt="muhiqsimui's GitHub Stats" src="https://github-readme-stats-one-gamma.vercel.app/api?username=muhiqsimui&show_icons=true&hide_border=true" />
+<img align="left" alt="muhiqsimui" src=https://vercel.com/muhiqsimui/github-readme-stats/BrGVkzEunC7wA2Z8y3nMRZfyyf6X/api?username=muhiqsimui&show_icons=true&hide_border=true" />
 
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhiqsimui" alt="zs-id" /></a></p>
 
