@@ -55,6 +55,6 @@
 <br />
 
 <h3 align="center">
- <img src="https://github.com/muhiqsimui/muhiqsimui/raw/main/assets/IMG_20190523_134806.jpg" width="200" height="200">
+ <img src="https://github.com/muhiqsimui/muhiqsimui/raw/main/assets/IMG_20190523_134806.jpg" width="400">
 </h3>
 
