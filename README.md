@@ -17,11 +17,12 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
+ 
 ## Stat Github
 
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="muhiqsimui's GitHub Stats" src="https://github-readme-stats-one-gamma.vercel.app/api?username=muhiqsimui&show_icons=true&hide_border=true" />
 
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-readme-stats-one-gamma.vercel.appp/?username=muhiqsimui" alt="zs-id" /></a></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhiqsimui" alt="zs-id" /></a></p>
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=muhiqsimui&theme=cobalt&show_icons=true)](https://github.com/muhiqsimui)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhiqsimui&hide=TeX&layout=compact&theme=cobalt)
