@@ -55,6 +55,8 @@
 <br />
 
 <h3 align="center">
+ <img src="https://miro.medium.com/max/3446/1*ZJDitEFIDja0S_DLOiJGDw.jpeg" width="100">
  <img src="https://github.com/muhiqsimui/muhiqsimui/raw/main/assets/IMG_20190523_134806.jpg" width="100">
+ 
 </h3>
 
