@@ -15,6 +15,10 @@
 - 🥅 2021 Goals: I'm thinking now XD
 - ⚡ Fun fact: I don't really like to code but i am programmer
 
+
+### Music Playing 🎧
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/618906705&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/vanni-mulkar" title="Vanni Mulkar" target="_blank" style="color: #cccccc; text-decoration: none;">Vanni Mulkar</a> · <a href="https://soundcloud.com/vanni-mulkar/feby-putri-nc-x-adam" title="Feby Putri NC x Adam - Friendzone(Lirik)  Budi Doremi  COVER.mp3" target="_blank" style="color: #cccccc; text-decoration: none;">Feby Putri NC x Adam - Friendzone(Lirik)  Budi Doremi  COVER.mp3</a></div>
+
 <details>
   <summary>:zap: GitHub Stats</summary>
  
