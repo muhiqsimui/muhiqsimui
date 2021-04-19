@@ -30,10 +30,6 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=muhiqsimui.muhiqsimui)
 </details>
     
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="muhiqsimui Spotify Playing" width="350" />](https://open.spotify.com/user/21xswdxv6777ud726nf7h3q7i)
-
 
 ## Languages ➡️
 
