@@ -24,8 +24,6 @@
  
 ## Stat Github
 
-
-
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhiqsimui" alt="zs-id" /></a></p>
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=muhiqsimui&theme=cobalt&show_icons=true)](https://github.com/muhiqsimui)
