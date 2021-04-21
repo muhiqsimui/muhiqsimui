@@ -10,3 +10,4 @@ git config : untuk config
 git branch : membuat branch
 git help : cek perintah git
 git rm : delete dari staging area
+git checkout -- kode namafile : mengembalikan commit
