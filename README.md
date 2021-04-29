@@ -12,6 +12,8 @@
 
 ## I'm a Programmer,Developer,Designer and Freelancer!
 
+## this is my code playground area just for fun
+
 - 🎓 I’m currently learn everything :)
 - 👯 I’m looking to collaborate with other developer
 - 🥅 2021 Goals: I'm thinking now XD
