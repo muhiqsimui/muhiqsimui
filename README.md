@@ -12,6 +12,8 @@
 
 ## I'm a Programmer,Developer,Designer and Freelancer!
 
+<img width="300px" align="right" src="https://d17ivq9b7rppb3.cloudfront.net/small/avatar/201811282015275c7129691fc4fa30518f6deea3fb9487.PNG"/>
+
 ## this is my code playground area just for fun
 
 - 🎓 I’m currently learn everything :)
