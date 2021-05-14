@@ -1,5 +1,5 @@
 <img width="100px" align="right" src="https://d17ivq9b7rppb3.cloudfront.net/small/avatar/201811282015275c7129691fc4fa30518f6deea3fb9487.PNG"/>
-<img width="300px" align="right" src="https://i.pinimg.com/564x/64/95/f2/6495f2634260bd39fb2c6c52e53111f9.jpg"/>
+<img width="300px" align="right" src="https://i.pinimg.com/564x/24/1d/36/241d368387f32bef7900367688294381.jpg"/>
 ### Hi there, I'm Iqbal - aka [Muhiqsimui]
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=muhiqsimui.muhiqsimui)
