@@ -1,6 +1,8 @@
 <!--<img width="100px" align="right" src="https://d17ivq9b7rppb3.cloudfront.net/small/avatar/201811282015275c7129691fc4fa30518f6deea3fb9487.PNG"/>-->
 <!-- <img width="300px" align="right" src="https://i.pinimg.com/564x/24/1d/36/241d368387f32bef7900367688294381.jpg"/> -->
-<img width="300px" align="right" src="https://i.pinimg.com/236x/06/00/ed/0600ede427158843dd4a83e675b6ed26.jpg"/>
+<!-- <img width="300px" align="right" src="https://i.pinimg.com/236x/06/00/ed/0600ede427158843dd4a83e675b6ed26.jpg"/> -->
+<img width="300px" align="right" src="https://i.pinimg.com/564x/80/79/d9/8079d9a6a511accc85d0377a19169eab.jpg"/>
+
     
 ### Hi there, I'm Iqbal - aka [Muhiqsimui]
 
