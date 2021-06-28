@@ -36,8 +36,11 @@
 
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhiqsimui" alt="zs-id" /></a></p>
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=muhiqsimui&theme=cobalt&show_icons=true)](https://github.com/muhiqsimui)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhiqsimui&hide=TeX&layout=compact&theme=cobalt)
+    
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhiqsimui&row=3&column=4&margin-w=15&margin-h=15&theme=dracula&no-bg=true&no-frame=true" alt="muhiqsimui" /></a></p>
+<!-- [![Github Stats](https://github-readme-stats.vercel.app/api?username=muhiqsimui&theme=cobalt&show_icons=true)](https://github.com/muhiqsimui)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhiqsimui&hide=TeX&layout=compact&theme=cobalt) -->
+    
 </details>
 
 <details>
