@@ -13,7 +13,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-white?style=plastic&logo=instagram&link=https://www.instagram.com/muhiqsimui/)](https://www.instagram.com/muhiqsimui/)
 ![hafet17 Stars](https://img.shields.io/github/stars/muhiqsimui?affiliations=OWNER&style=social)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/muhiqsimui?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmuhiqsimui&screen_name=muhiqsimui)
+<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/muhiqsimui?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmuhiqsimui&screen_name=muhiqsimui) -->
  
 
 ## I'm a Programmer,Developer,Designer and Freelancer!
