@@ -65,8 +65,9 @@
 <div>
     <img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" />
 </div>
-
-    ![](https://activity-graph.herokuapp.com/graph?username=muhiqsimui&theme=react-dark&area=true)
+<div>
+    <img src="https://activity-graph.herokuapp.com/graph?username=muhiqsimui&theme=react-dark&area=true" />
+</div>
 
 <br />
 
