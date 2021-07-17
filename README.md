@@ -65,9 +65,10 @@
 <div>
     <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" />
 </div>
+_generated with [Platane/snk](https://github.com/Platane/snk)_
 <div>
     <img src="https://activity-graph.herokuapp.com/graph?username=muhiqsimui&theme=xcode&area=true" />
-    _generated with [Platane/snk](https://github.com/Platane/snk)_
+    
 </div>
 
 <br />
