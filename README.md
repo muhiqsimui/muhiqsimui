@@ -3,7 +3,7 @@
 <!-- <img width="300px" align="right" src="https://i.pinimg.com/236x/06/00/ed/0600ede427158843dd4a83e675b6ed26.jpg"/> -->
 <!-- <img width="300px" align="right" src="https://i.pinimg.com/564x/80/79/d9/8079d9a6a511accc85d0377a19169eab.jpg"/> -->
 <img  align="center" src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/main/assets/CODE%20-%20PROJECT%20-%20REPO.png"/>
-<img align="center" width="300px" src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/saved/sat.svg"/>
+<img align="center"  src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/saved/sat.svg"/>
     
 ### Hi there, I'm Iqbal - aka [Muhiqsimui]
 
