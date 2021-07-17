@@ -66,7 +66,7 @@
     <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" />
 </div>
 <div>
-    <img src="https://activity-graph.herokuapp.com/graph?username=muhiqsimui&theme=react-dark&area=true" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=muhiqsimui&theme=xcode&area=true" />
 </div>
 
 <br />
