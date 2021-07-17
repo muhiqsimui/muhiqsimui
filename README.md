@@ -6,9 +6,9 @@
 
 ## Hi there, I'm Iqbal - aka [Muhiqsimui]
 I'm a Programmer,Developer,Designer and Freelancer!
-<hr>
+
 <img align="center"  src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/saved/sat.svg"/>
-    
+<hr>
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=muhiqsimui.muhiqsimui)
