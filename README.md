@@ -36,6 +36,7 @@
 
 <!-- <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhiqsimui" alt="zs-id" /></a></p>
  -->
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=muhiqsimui" alt="muhiqsimui" /></p>
     
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhiqsimui&row=3&column=4&margin-w=15&margin-h=15&theme=dracula&no-bg=true&no-frame=true" alt="muhiqsimui" /></a></p>
   
