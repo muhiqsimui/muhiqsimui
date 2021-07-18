@@ -17,7 +17,7 @@ I'm a Programmer,Developer,Designer and Freelancer!
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&link=https://id.linkedin.com/in/muhiqsimui)](https://id.linkedin.com/in/muhiqsimui) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-white?style=plastic&logo=instagram&link=https://www.instagram.com/muhiqsimui/)](https://www.instagram.com/muhiqsimui/)
 ![hafet17 Stars](https://img.shields.io/github/stars/muhiqsimui?affiliations=OWNER&style=social)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram)](https://t.me/muhiqsimui/)
+<!-- [![Telegram Badge](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram)](https://t.me/muhiqsimui/) -->
 
 
 
