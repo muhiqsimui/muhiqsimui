@@ -82,7 +82,9 @@ I'm a Programmer,Developer,Designer and Freelancer!
 
 
 
+
 <h3 align="center">
+  JUST LEARN UNTIL YOU STRONGGEST LIKE MADARA
 <!--  <img src="https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif" /> -->
  <img src="https://i.pinimg.com/originals/a4/6a/63/a46a639e68d59591b872e75f5146cf4d.gif" />
 </h3>
