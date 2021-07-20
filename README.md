@@ -79,9 +79,9 @@ I'm a Programmer,Developer,Designer and Freelancer!
 
 <br />
 
-<!-- <h3 align="center">
+<h3 align="center">
  <img src="https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif" />
 <!--  <img src="https://github.com/muhiqsimui/muhiqsimui/raw/main/assets/IMG_20190523_134806.jpg" width="100"> -->
  
-<!-- </h3>
- --> 
+</h3>
+ 
