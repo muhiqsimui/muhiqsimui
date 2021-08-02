@@ -9,9 +9,10 @@
 <!-- I'm+a+Programmer,Developer,Designer+and+Freelancer -->
 
 <img align="center"  src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/saved/sat.svg"/>
-<hr>
 
-
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+![a](https://capsule-render.vercel.app/api?type=waving&height=300&text=Nice%20to%20Meet%20You!&fontAlign=40&fontAlignY=40&color=gradient)
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=muhiqsimui.muhiqsimui)
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=plastic&logo=Gmail&link=mailto:muhiqsimui@gmail.com)](mailto:muhiqsimui@gmail.com)
