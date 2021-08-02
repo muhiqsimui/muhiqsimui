@@ -5,7 +5,8 @@
 <img  align="center" src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/main/assets/CODE%20-%20PROJECT%20-%20REPO.png"/>
 
 ## Hi there, I'm Iqbal - aka [Muhiqsimui]
-I'm a Programmer,Developer,Designer and Freelancer!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00D13B&width=750&lines=I'm+a+Programmer,Developer,Designer+and+Freelancer+💻)](https://git.io/typing-svg)
+<!-- I'm+a+Programmer,Developer,Designer+and+Freelancer -->
 
 <img align="center"  src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/saved/sat.svg"/>
 <hr>
