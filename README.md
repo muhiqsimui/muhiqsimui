@@ -38,9 +38,9 @@
 
 <p align="center">
   <a>
-<!--     <img height="150" width="175" src=""> for wing L -->
+    <img height="150" width="175" src="https://github.com/muhiqsimui/muhiqsimui/raw/main/assets/left.png">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhiqsimui&theme=dark&hide_border=true" alt="muhiqsimui"/>
-<!--     <img height="150" width="175" src=""> for wing R-->
+    <img height="150" width="175" src="https://github.com/muhiqsimui/muhiqsimui/raw/main/assets/right.png">
   </a>
 </p>
 
