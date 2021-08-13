@@ -4,6 +4,11 @@
 <!-- <img width="300px" align="right" src="https://i.pinimg.com/564x/80/79/d9/8079d9a6a511accc85d0377a19169eab.jpg"/> -->
 <img  align="center" src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/main/assets/CODE%20-%20PROJECT%20-%20REPO.png"/>
 
+## Information School
+let's join the Cloud and Back-End Developer Scholarship Program. while this event is still free, come and try it 
+Register on
+https://www.dicoding.com/programs/aws/registration/152054
+
 ## Hi there, I'm Iqbal - aka [Muhiqsimui]
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8000FF&width=750&lines=I'm+a+Programmer,Developer,Designer+and+Freelancer+💻)](https://git.io/typing-svg)
 <!-- I'm+a+Programmer,Developer,Designer+and+Freelancer -->
