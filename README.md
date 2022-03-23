@@ -81,8 +81,10 @@
     <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" />
 </div>
 <br>
-<!-- <div>
-    <img src="https://activity-graph.herokuapp.com/graph?username=muhiqsimui&theme=xcode&area=true" />
+
+<div>
+    <img src="https://activity-graph.herokuapp.com/graph?username=muhiqsimui&hide_border=true&theme=redical">
+    <!-- <img src="https://activity-graph.herokuapp.com/graph?username=muhiqsimui&theme=xcode&area=true" /> -->
     
 </div>
  -->
