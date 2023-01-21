@@ -82,20 +82,14 @@
 </div>
 <br>
 
-<div>
-    <img src="https://activity-graph.herokuapp.com/graph?username=muhiqsimui&hide_border=true&theme=redical">
-    <!-- <img src="https://activity-graph.herokuapp.com/graph?username=muhiqsimui&theme=xcode&area=true" /> -->
-    
-</div>
- -->
+
 <br />
 
 
 
 
 <div align="center">
-<h3> Keep learning until you are stronger than Madara </h3>
-<!--  <img src="https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif" /> -->
- <img src="https://i.pinimg.com/originals/a4/6a/63/a46a639e68d59591b872e75f5146cf4d.gif" />
+<h3> Googling is important skill for developer :)  </h3>
+ <img src="https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif" />
 </div>
  
