@@ -24,7 +24,7 @@
 
 - 🎓 I’m currently learn everything :)
 - 👯 I’m looking to collaborate with other developer
-- 🥅 2021 Goals: I'm thinking now XD
+- 🥅 Goals: make AI dumb with my trash code XD
 - ⚡ Fun fact: I don't really like to code but i am programmer
 
 
@@ -91,7 +91,7 @@
 
 
 <div align="center">
-<h3> Googling is important skill for developer :)  </h3>
+<h3> <del>Googling</del> <b>AI</b> is important skill for developer XD LOL  </h3>
  <img src="https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif" />
 </div>
  
