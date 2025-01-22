@@ -40,7 +40,7 @@
 <p align="center">
   <a>
     <img height="120" width="140" src="https://github.com/muhiqsimui/muhiqsimui/raw/main/assets/left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhiqsimui&theme=dark&hide_border=true" alt="muhiqsimui"/>
+    <img align="center" width="100" src="https://avatars.githubusercontent.com/u/33776809?v=4"/>
     <img height="120" width="140" src="https://github.com/muhiqsimui/muhiqsimui/raw/main/assets/right.png">
   </a>
 </p>
@@ -93,5 +93,6 @@
 <div align="center">
 <h3> <del>Googling</del> <b>AI</b> is important skill for developer XD LOL  </h3>
  <img src="https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif" />
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 </div>
  
