@@ -6,7 +6,6 @@
 
 ## Hi there, I'm Iqbal - aka [Muhiqsimui]
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8000FF&width=750&lines=I'm+a+Programmer,Developer,Designer+and+Freelancer+💻)](https://git.io/typing-svg)
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21xswdxv6777ud726nf7h3q7i&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=21xswdxv6777ud726nf7h3q7i&redirect=true)
 <!-- I'm+a+Programmer,Developer,Designer+and+Freelancer -->
 
 <img align="center"  src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/saved/sat.svg"/>
@@ -79,18 +78,10 @@
   </p>
 </details>
 <br />
-
-
 <!-- <div>
     <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" />
 </div> -->
-<br>
-
-
 <br />
-
-
-
 
 <div align="center">
 <h3> <del>Googling</del> <b>AI</b> is important skill for developer XD LOL  </h3>
