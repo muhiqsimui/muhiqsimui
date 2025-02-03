@@ -9,7 +9,7 @@ BANNER OLD
 -->
 <img  align="center" src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/refs/heads/main/assets/piclumen-1738616282948_upscayl_4x_realesrgan-x4plus.jpeg"/>
 
-## Hi there, I'm Iqbal - aka [Muhiqsimui]
+## Hello there, My name is Iqbal - aka [Muhiqsimui]
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8000FF&width=750&lines=I'm+a+Programmer,Developer,Designer+and+Freelancer+💻)](https://git.io/typing-svg) 
@@ -19,9 +19,13 @@ BANNER OLD
 <!--
 IMG FLYING ASTRONAUT
 <img align="center"  src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/saved/sat.svg"/>
+
+![a](https://capsule-render.vercel.app/api?type=waving&height=200&text=Nice%20to%20Meet%20You!&fontAlign=40&fontAlignY=40&color=gradient) 
 -->
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-![a](https://capsule-render.vercel.app/api?type=waving&height=300&text=Nice%20to%20Meet%20You!&fontAlign=40&fontAlignY=40&color=gradient)
+
+![a](https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/refs/heads/main/assets/Nice-to-Meet-You-2-4-2025.gif) 
+
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=muhiqsimui.muhiqsimui)
 
