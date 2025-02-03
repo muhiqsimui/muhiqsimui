@@ -52,7 +52,8 @@
  
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=muhiqsimui&theme=cobalt&show_icons=true)](https://github.com/muhiqsimui)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhiqsimui&hide=TeX&layout=compact&theme=cobalt)
-    
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhiqsimui&theme=redical&hide_border=true)
+
 </details>
 
 <details>
