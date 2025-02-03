@@ -22,11 +22,14 @@ IMG FLYING ASTRONAUT
 
 ![a](https://capsule-render.vercel.app/api?type=waving&height=200&text=Nice%20to%20Meet%20You!&fontAlign=40&fontAlignY=40&color=gradient) 
 -->
+<div align="center">
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ![a](https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/refs/heads/main/assets/Nice-to-Meet-You-2-4-2025.gif) 
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+</div>
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=muhiqsimui.muhiqsimui)
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=plastic&logo=Gmail&link=mailto:muhiqsimui@gmail.com)](mailto:muhiqsimui@gmail.com)
