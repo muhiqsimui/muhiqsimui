@@ -25,8 +25,10 @@ IMG FLYING ASTRONAUT
 <div align="center">
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+![a](https://i.pinimg.com/originals/4d/a7/2f/4da72f96334d0587001a82b879b53174.gif)
+<!--
 ![a](https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/refs/heads/main/assets/Nice-to-Meet-You-2-4-2025.gif) 
-
+-->
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 </div>
 
