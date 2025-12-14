@@ -2,17 +2,13 @@
 <!-- <img width="300px" align="right" src="https://i.pinimg.com/564x/24/1d/36/241d368387f32bef7900367688294381.jpg"/> -->
 <!-- <img width="300px" align="right" src="https://i.pinimg.com/236x/06/00/ed/0600ede427158843dd4a83e675b6ed26.jpg"/> -->
 <!-- <img width="300px" align="right" src="https://i.pinimg.com/564x/80/79/d9/8079d9a6a511accc85d0377a19169eab.jpg"/> -->
+<img  align="center" src="assets/piclumen-1738616282948_upscayl_4x_realesrgan-x4plus.jpeg"/>
 
-<!-- 
-BANNER OLD
-<img  align="center" src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/main/assets/CODE%20-%20PROJECT%20-%20REPO.png"/> 
--->
-<img  align="center" src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/refs/heads/main/assets/piclumen-1738616282948_upscayl_4x_realesrgan-x4plus.jpeg"/>
+<img  align="center" src="assets/CODE%20-%20PROJECT%20-%20REPO.png"/>
 
 ## Hello there, My name is Iqbal - aka [Muhiqsimui]
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8000FF&width=750&lines=I'm+a+Programmer,Developer,Designer+and+Freelancer+💻)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8000FF&width=750&lines=I'm+a+Programmer,Developer,Designer+and+Freelancer+💻)](https://git.io/typing-svg)
 
 <!-- I'm+a+Programmer,Developer,Designer+and+Freelancer -->
 
@@ -20,22 +16,21 @@ BANNER OLD
 IMG FLYING ASTRONAUT
 <img align="center"  src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/saved/sat.svg"/>
 
-![a](https://capsule-render.vercel.app/api?type=waving&height=200&text=Nice%20to%20Meet%20You!&fontAlign=40&fontAlignY=40&color=gradient) 
+![a](https://capsule-render.vercel.app/api?type=waving&height=200&text=Nice%20to%20Meet%20You!&fontAlign=40&fontAlignY=40&color=gradient)
 -->
 <div align="center">
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-![a](https://i.pinimg.com/originals/4d/a7/2f/4da72f96334d0587001a82b879b53174.gif)
-<!--
-![a](https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/refs/heads/main/assets/Nice-to-Meet-You-2-4-2025.gif) 
--->
+![a](/assets/ZoroAnim.gif)
+
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 </div>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=muhiqsimui.muhiqsimui)
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=plastic&logo=Gmail&link=mailto:muhiqsimui@gmail.com)](mailto:muhiqsimui@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&link=https://id.linkedin.com/in/muhiqsimui)](https://id.linkedin.com/in/muhiqsimui) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&link=https://id.linkedin.com/in/muhiqsimui)](https://id.linkedin.com/in/muhiqsimui)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-white?style=plastic&logo=instagram&link=https://www.instagram.com/muhiqsimui/)](https://www.instagram.com/muhiqsimui/)
 ![hafet17 Stars](https://img.shields.io/github/stars/muhiqsimui?affiliations=OWNER&style=social)
 
@@ -45,8 +40,6 @@ IMG FLYING ASTRONAUT
 - 👯 I’m looking to collaborate with other developer
 - 🥅 Goals: make AI dumb with my trash code XD
 - ⚡ Fun fact: I don't really like to code but i am programmer
-
-
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -58,17 +51,12 @@ IMG FLYING ASTRONAUT
 
 <p align="center">
   <a>
-    <img height="120" width="140" src="https://github.com/muhiqsimui/muhiqsimui/raw/main/assets/left.png">
-    <img align="center" width="100" src="https://avatars.githubusercontent.com/u/33776809?v=4"/>
-    <img height="120" width="140" src="https://github.com/muhiqsimui/muhiqsimui/raw/main/assets/right.png">
+    <img height="120" width="140" src="assets/left.png">
+<img align="center" width="100" height="100" src="https://avatars.githubusercontent.com/u/33776809?v=4" style="border:4px solid purple;border-radius:50%;object-fit:cover;">
+<img height="120" width="140" src="assets/right.png">
   </a>
 </p>
 
-  
-  
-  
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhiqsimui&row=2&column=8&margin-w=15&margin-h=15&theme=dracula&no-bg=true&no-frame=true" alt="muhiqsimui" /></a></p>
- 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=muhiqsimui&theme=cobalt&show_icons=true)](https://github.com/muhiqsimui)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhiqsimui&hide=TeX&layout=compact&theme=cobalt)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhiqsimui&theme=redical&hide_border=true)
@@ -108,4 +96,3 @@ IMG FLYING ASTRONAUT
  <img src="https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif" /> 
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 </div>
- 
