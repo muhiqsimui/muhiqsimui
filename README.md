@@ -48,8 +48,11 @@ IMG FLYING ASTRONAUT
 <img height="120" width="80" src="assets/right.png">
   </a>
 </p>
+
 ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhiqsimui&theme=moonlight)
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhiqsimui&theme=redical&hide_border=true)
+
 <img src="https://github.com/muhiqsimui/muhiqsimui/raw/main/assets/121804031-97b50f00-cc44-11eb-8fc9-3b92711e50c6.gif" />
 
 </details>
