@@ -1,25 +1,14 @@
-<img  align="center" src="assets/piclumen-1738616282948_upscayl_4x_realesrgan-x4plus.jpeg"/>
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<img  align="center" src="assets/CODE%20-%20PROJECT%20-%20REPO.png"/>
+<!-- <img align="center"  src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/saved/sat.svg"/> -->
+
+<img align="center"  src="assets/astroz.svg"/>
+
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## Hello there, My name is Iqbal - aka [Muhiqsimui]
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ca59f7&width=750&lines=I'm+a+Programmer,Developer,Designer+and+Freelancer+💻)](https://git.io/typing-svg)
-
-<!--
-IMG FLYING ASTRONAUT
-<img align="center"  src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/saved/sat.svg"/>
-
-![a](https://capsule-render.vercel.app/api?type=waving&height=200&text=Nice%20to%20Meet%20You!&fontAlign=40&fontAlignY=40&color=gradient)
--->
-<div align="center">
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-![a](/assets/ZoroAnim.gif)
-
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=fe00affo&width=600&lines=I'm+a+Programmer,Developer,Designer+and+Freelancer+💻)](https://git.io/typing-svg)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=muhiqsimui.muhiqsimui)
 
@@ -106,6 +95,5 @@ IMG FLYING ASTRONAUT
 
 <div align="center">
 <h3> <del>Googling</del> <b>AI</b> is important skill for developer XD LOL  </h3>
-  
- <img src="https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif" /> 
+
 </div>

@@ -1,0 +1,256 @@
+<svg class="astronaut" viewBox="0 0 1167 807" xmlns="http://www.w3.org/2000/svg" style="background: radial-gradient(ellipse at center, #0a0a2a 0%, #030318 100%); overflow: hidden;">
+  <title>Astronaut Neo - Redesign Keren</title>
+  
+  <defs>
+    <!-- Gradien Futuristik untuk Suit -->
+    <linearGradient id="suitGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2c2c54"/>
+      <stop offset="50%" stop-color="#1a1a3e"/>
+      <stop offset="100%" stop-color="#0f0f2a"/>
+    </linearGradient>
+    
+    <linearGradient id="suitHighlight" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#5a5a8a" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#2a2a5a" stop-opacity="0.2"/>
+    </linearGradient>
+
+    <!-- Gradien Visor Keren (Cyan ke Magenta) -->
+    <linearGradient id="visorGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00f2fe" stop-opacity="0.95"/>
+      <stop offset="50%" stop-color="#4facfe" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#ff2e63" stop-opacity="0.9"/>
+    </linearGradient>
+
+    <!-- Gradien untuk Efek Thruster -->
+    <radialGradient id="thrusterGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ff6a00" stop-opacity="0.9"/>
+      <stop offset="50%" stop-color="#ff2e63" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#ff2e63" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Filter Neon Glow yang Lebih Kuat -->
+    <filter id="neonGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="4" result="blur1"/>
+      <feGaussianBlur in="SourceGraphic" stdDeviation="8" result="blur2"/>
+      <feMerge>
+        <feMergeNode in="blur2"/>
+        <feMergeNode in="blur1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Filter untuk Efek Partikel / Bintang Glow -->
+    <filter id="starGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Mask untuk Efek Scan Visor -->
+    <mask id="visorMask">
+      <rect width="1167" height="807" fill="white"/>
+      <circle cx="0" cy="0" r="150" fill="black">
+        <animate attributeName="cy" values="0; 200; 0" dur="8s" repeatCount="indefinite"/>
+      </circle>
+    </mask>
+  </defs>
+
+  <style>
+    /* Animasi Baru yang Lebih Keren */
+    @keyframes levitate {
+      0%, 100% { transform: translateY(0px) scale(1); }
+      50% { transform: translateY(-15px) scale(1.02); }
+    }
+    @keyframes floatArmL {
+      0%, 100% { transform: rotate(-5deg); }
+      50% { transform: rotate(5deg); }
+    }
+    @keyframes floatArmR {
+      0%, 100% { transform: rotate(5deg); }
+      50% { transform: rotate(-5deg); }
+    }
+    @keyframes floatLegL {
+      0%, 100% { transform: rotate(3deg); }
+      50% { transform: rotate(-3deg); }
+    }
+    @keyframes floatLegR {
+      0%, 100% { transform: rotate(-3deg); }
+      50% { transform: rotate(3deg); }
+    }
+    @keyframes blink {
+      0%, 90%, 100% { transform: scaleY(1); }
+      95% { transform: scaleY(0); }
+    }
+    @keyframes visorPulse {
+      0%, 100% { opacity: 0.85; filter: drop-shadow(0 0 5px #00f2fe) drop-shadow(0 0 15px #ff2e63); }
+      50% { opacity: 1; filter: drop-shadow(0 0 15px #00f2fe) drop-shadow(0 0 30px #ff2e63); }
+    }
+    @keyframes starsRotate {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+    @keyframes twinkle {
+      0%, 100% { opacity: 0.3; transform: scale(1); }
+      50% { opacity: 1; transform: scale(1.2); }
+    }
+    @keyframes shootingStar {
+      0% { transform: translateX(-100px) translateY(-100px) rotate(45deg); opacity: 0; }
+      10% { opacity: 1; }
+      30% { opacity: 1; }
+      100% { transform: translateX(400px) translateY(400px) rotate(45deg); opacity: 0; }
+    }
+    @keyframes thrusterFire {
+      0%, 100% { transform: scaleY(1); opacity: 0.8; }
+      50% { transform: scaleY(1.5); opacity: 1; }
+    }
+
+    /* Penerapan Animasi ke Elemen */
+    .astronaut-body { animation: levitate 4s ease-in-out infinite; transform-origin: center; }
+    .arm-left { animation: floatArmL 5s ease-in-out infinite; transform-origin: 85% 65%; }
+    .arm-right { animation: floatArmR 5s ease-in-out infinite; transform-origin: 15% 65%; }
+    .leg-left { animation: floatLegL 4.5s ease-in-out infinite; transform-origin: 40% 80%; }
+    .leg-right { animation: floatLegR 4.5s ease-in-out infinite; transform-origin: 60% 80%; }
+    .eye-left, .eye-right { animation: blink 4s infinite; transform-origin: center; }
+    .face-visor { animation: visorPulse 3s infinite alternate; }
+    .star { animation: twinkle 3s infinite alternate; transform-origin: center; }
+    .star:nth-child(odd) { animation-duration: 2.5s; animation-delay: -1s; }
+    .star:nth-child(3n) { animation-duration: 4s; animation-delay: -2s; }
+    .stars { animation: starsRotate 200s linear infinite; transform-origin: center; }
+    .shooting-star { animation: shootingStar 6s linear infinite; }
+    .shooting-star:nth-child(2) { animation-delay: 3s; left: 70%; top: 20%; }
+    .thruster-flame { animation: thrusterFire 0.2s ease-in-out infinite; transform-origin: top; }
+  </style>
+
+  <!-- Background dengan Bintang Berkedip dan Nebula -->
+  <rect width="100%" height="100%" fill="url(#spaceGrad)" opacity="0.3"/>
+  <g class="stars" fill="#ffffff" filter="url(#starGlow)">
+    <!-- Bintang-bintang kecil dengan animasi twinkle -->
+    <circle class="star" cx="75" cy="212" r="2.5"/>
+    <circle class="star" cx="148" cy="251" r="2"/>
+    <circle class="star" cx="197" cy="140" r="1.5"/>
+    <circle class="star" cx="278" cy="231" r="3"/>
+    <circle class="star" cx="238" cy="59" r="2"/>
+    <circle class="star" cx="168" cy="359" r="2.5"/>
+    <circle class="star" cx="327" cy="120" r="1.5"/>
+    <circle class="star" cx="448" cy="212" r="2"/>
+    <circle class="star" cx="521" cy="251" r="2.5"/>
+    <circle class="star" cx="570" cy="140" r="1.5"/>
+    <circle class="star" cx="651" cy="231" r="3"/>
+    <circle class="star" cx="611" cy="59" r="2"/>
+    <circle class="star" cx="541" cy="359" r="2"/>
+    <circle class="star" cx="700" cy="120" r="1.5"/>
+    <circle class="star" cx="125" cy="572" r="2"/>
+    <circle class="star" cx="198" cy="611" r="2.5"/>
+    <circle class="star" cx="247" cy="500" r="1.5"/>
+    <circle class="star" cx="328" cy="591" r="2"/>
+    <circle class="star" cx="258" cy="521" r="2"/>
+    <circle class="star" cx="288" cy="419" r="3"/>
+    <circle class="star" cx="377" cy="480" r="1.5"/>
+    <circle class="star" cx="498" cy="572" r="2"/>
+    <circle class="star" cx="571" cy="611" r="2.5"/>
+    <circle class="star" cx="620" cy="500" r="1.5"/>
+    <circle class="star" cx="701" cy="591" r="2"/>
+    <circle class="star" cx="631" cy="521" r="2"/>
+    <circle class="star" cx="661" cy="419" r="3"/>
+    <circle class="star" cx="750" cy="480" r="1.5"/>
+    <circle class="star" cx="481" cy="709" r="2.5"/>
+    <circle class="star" cx="118" cy="709" r="2"/>
+  </g>
+
+  <!-- Bintang Jatuh (Shooting Stars) -->
+  <line class="shooting-star" x1="200" y1="100" x2="0" y2="300" stroke="url(#starGlow)" stroke-width="2" stroke-linecap="round"/>
+  <line class="shooting-star" x1="800" y1="150" x2="600" y2="350" stroke="url(#starGlow)" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Grup Utama Astronaut dengan Animasi Body -->
+  <g class="astronaut-body">
+    
+    <!-- Jetpack & Thruster (Efek Api) -->
+    <g transform="translate(540, 320)">
+      <ellipse cx="0" cy="120" rx="60" ry="30" fill="#1a1a3e" stroke="#4facfe" stroke-width="2" filter="url(#neonGlow)"/>
+      <rect x="-30" y="100" width="60" height="40" rx="5" fill="#2c2c54"/>
+      <!-- Thruster Kiri -->
+      <g transform="translate(-40, 140)">
+        <path d="M-15,0 L0,40 L15,0 Z" fill="#ff2e63" class="thruster-flame" filter="url(#neonGlow)"/>
+        <ellipse cx="0" cy="0" rx="20" ry="10" fill="#6a6a9a"/>
+      </g>
+      <!-- Thruster Kanan -->
+      <g transform="translate(40, 140)">
+        <path d="M-15,0 L0,40 L15,0 Z" fill="#ff2e63" class="thruster-flame" filter="url(#neonGlow)"/>
+        <ellipse cx="0" cy="0" rx="20" ry="10" fill="#6a6a9a"/>
+      </g>
+    </g>
+
+    <!-- Kaki Kanan (Leg Right) dengan Detail Baru -->
+    <g class="leg-right">
+      <path d="M858.4 321.1L767 371.5l-86.5 47.7c-8.4 4.6-17.5 6.8-26.4 6.8-19.3 0-38.1-10.2-48.1-28.4-14.6-26.5-5-59.9 21.5-74.5L657 307l52.3-28.8 61.2-33.8L748 128.2c-5.8-29.7 13.6-58.5 43.4-64.3 13.3-2.6 26.5-.1 37.5 6.1 13.5 7.6 23.6 20.9 26.8 37.3l30.2 155.4c4.4 23.3-6.6 46.9-27.5 58.4z" fill="url(#suitGrad)" stroke="#4facfe" stroke-width="1.5"/>
+      <path d="M858.4 321.1L767 371.5c-23.2-7.8-55.3-19.1-75-26.6-14.7-5.6-28.9-22.1-35.1-37.9l29.1-16c60.8 5.1 89.7 40.9 89.7 40.9s48.3-27.8 68.3-38.3c20-10.5 15-18 12.5-28.9-1.2-5.3-8.8-46.3-16.5-87.6 17.8-7.6 24.4-18.7 25.2-20.1l20.5 105.7c4.6 23.3-6.4 46.9-27.3 58.4z" fill="url(#suitHighlight)"/>
+      <path d="M873.8 78.6L852.6 86l12.8 70.8s0 .1-.1.2l-9.6-49.7c-3.2-16.4-13.4-29.6-26.8-37.3-9.3 4-6.7 8.8-5.3 16.5.8 4.6 8.7 47.8 16.6 90.5-6.8 2.9-15.2 5.3-25.5 6.5-39.4 4.6-56.9-5.4-56.9-5.4l-22-119.4L878 19.5l30.7-8.5s16.4 47.9-34.9 67.6z" fill="url(#suitHighlight)"/>
+      <path d="M869.5 45.8c-11.6 5.4-25.2 10.5-40 14.7-47.7 13.8-89.5 13.7-93.5.1-3.7-12.9 28.2-33.4 72.4-47.4 0 0 1.2-.3 2.4-.7 1.5-.5 3-.9 4.5-1.3C863-2.6 904.9-2.6 908.8 11c2.6 9.4-13.4 22.9-39.3 34.8z" fill="#4facfe" filter="url(#neonGlow)"/>
+    </g>
+
+    <!-- Kaki Kiri (Leg Left) -->
+    <g class="leg-left" transform="translate(783 64)">
+      <path d="M.4 303.7s0 .1 0 0l17.2-5.2 94.1-28.6L171 116.8S191.8 79 240.2 93c5.3 1.5 9.8 3.3 13.8 5.3 32.5 16.4 24.4 46.1 24.4 46.1s-66 184.4-71.5 197.3c-5.5 12.9-14.3 24.6-46.5 35.1-20.8 6.8-142.2 43.3-142.2 43.3L.4 303.7z" fill="url(#suitGrad)" stroke="#4facfe" stroke-width="1.5"/>
+      <path d="M382.7 67.2s-11.3 51-66 41.2l-22.2-4.7-25.9 67.9s-15 9.2-41.1 2.6c-5.2-1.3-10.7-3.2-16.7-6-36.4-16.6-46.4-34.4-46.4-34.4l43.4-114.7 132.4 36.4 42.5 11.7z" fill="url(#suitHighlight)"/>
+      <path d="M10.6 365s141.6-34.1 146.7-35.7c7.3-2.3 14.7-3.7 21-26 5.5-19.5 53.1-149.2 68-192.3 32.5 16.4 32.1 33.5 32.1 33.5s-66 184.4-71.5 197.3c-5.5 12.9-14.3 24.6-46.5 35.1L19.1 420c-15.9-11.7-20.6-33.3-11-50.5l2.5-4.5" fill="url(#suitHighlight)"/>
+      <ellipse fill="#4facfe" filter="url(#neonGlow)" transform="rotate(-74.93 295.346 42.94)" cx="295.346" cy="42.942" rx="19.7" ry="90.8"/>
+    </g>
+
+    <!-- Lengan Kiri (Arm Left) -->
+    <g class="arm-left">
+      <path d="M584.9 697.3c-4.4 13.3-15.1 23.6-28.6 27.5L422.4 763l-33.3 9.5c-3.9 1.1-7.8 1.6-11.7 1.6-12.2 0-23.8-5.4-31.8-14.4-.3-.3-.5-.6-.8-.9-3-3.6-5.4-7.7-7.1-12.2-.4-1.1-.8-2.1-1.1-3.2-2.7-9.6-1.9-19.4 1.6-27.9 4.8-11.5 14.6-20.8 27.5-24.5l16-4.6 85.5-24.4h.2l5.6-1.6-.1-.1-60.8-79.3-.1-.1c-14.1-18.5 3.6-26.6 22.2-40.8l36.7-19.8 101 129.7 6.4 8.2c8.5 11.1 11 25.8 6.6 39.1z" fill="url(#suitGrad)" stroke="#4facfe" stroke-width="1.5"/>
+      <path d="M345.4 718.6l-7.2-3.2-14.3-6.3c-7.1-3.1-17-1.3-23.7.8-2.8.9-5 1.8-6.2 2.3-11.5 5.6-18 15.6-18 27.4 0 8.1 6.6 14.7 14.7 14.7 1 0 2-.1 3-.3 6.7-1.4 11.7-7.3 11.7-14.4 1.2-1.3 5.7-2.5 8.7-2.8l19.5 8.6c1.4.6 2.8 1 4.1 1.1 3 .4 6-.2 8.6-1.6.5-.2 1-.5 1.4-.8 1.5-1 2.8-2.3 3.9-3.9.5-.7.9-1.5 1.3-2.3.5-1.1.8-2.2 1-3.3 1.2-6.4-2.2-13.1-8.5-16z" fill="url(#suitHighlight)"/>
+      <path d="M422.4 763c-.1.2-.2.2-.2.2l-28.8 8.3c-20.6 5.8-22.3 13.4-22.3 20.2 0 7.1.3 10.9-9.3 13.9-3.2 1-6 1.3-9 1.3-4.5 0-9.2-1.9-16-6.3-15.1-9.8-28.1-22.5-32.9-27.3-5.1-5.1-9.2-10.3-10.3-19.4-.2-1.6-.3-3.3-.3-5.2 0-5.2.2-6.7.2-15.9 0-8 .9-16.6 6.6-23 3.2-3.5 7.8-6.4 14.6-8.2 14-3.6 33.4-8.2 66.9-15.4.3-.1.6-.1.9-.2 0 0 34.4 2.3 44.2 29.4.3.8.6 1.7.8 2.6 8 27.5-3.4 42.9-5.1 45z" fill="url(#suitGrad)"/>
+      <path d="M486.3 490.3l-74.1 90.6c0 .1 60.8 79.4 60.8 79.4l13-4c9.8-3 13.5-15 6.9-22.9l-11.1-15.8c-11-15.7-27-40.1-13.2-56.5 3.2-3.8 7.5-6.4 12.1-7.8 9.1-2.8 16.6-.1 22 7.1 0 0 6.7-19.1 6.7-40 0-21.1-23.1-30.1-23.1-30.1z" fill="url(#suitHighlight)"/>
+    </g>
+
+    <!-- Lengan Kanan (Arm Right) -->
+    <g class="arm-right">
+      <path d="M32.3 563.9c7.4 5.3 16 7.8 24.4 7.8 4.4 0 8.8-.7 13-2 8.5-2.7 16.1-8.1 21.7-15.9l57.9-81.9 71.9 23.3 63.8 20.6c22.3 7.2 46.2-5 53.4-27.3 7.2-22.3-5-46.2-27.3-53.4l-165.3-53.5c-17.7-5.7-37 .7-47.7 15.9l-76 107.3c-13.5 19.1-8.9 45.5 10.2 59.1z" fill="url(#suitGrad)" stroke="#4facfe" stroke-width="1.5"/>
+      <path d="M154.2 436.3L255 467.1s-14 11.8-33.9 28l-71.9-23.3-27.2 38.7c0-2.2-.6-17.8-15.6-32.4 9.5-12.6 19.4-25.7 26.1-34.7 5-6.7 13.7-9.5 21.7-7.1z" fill="url(#suitHighlight)"/>
+      <path d="M.8 547.2v12.7c0 15.5 6.5 25.1 17.9 25.1h56c3.7 0 6.8-.7 8.2-1.1 8.1-2.1 14.7-10.3 14.7-21.4 0-2.5-.4-4-.3-7.9.1-6.6-.5-7.5 5.5-16.9.1-.2.3-.4.4-.7 0 0 1.6-2.2 3.8-5.2l15.1-21.3c0-2.2-.6-17.8-15.6-32.4-2.5-2.4-5.4-4.9-8.9-7.2-25.4-17.3-55.1 4-55.1 4-21.6 27.3-20.3 25.5-28.9 37.3C2.1 528 .8 535.1.8 547.2z" fill="url(#suitHighlight)"/>
+      <path d="M122.8 566.8c5.3-1.1 9.6-5.3 10.4-10.9l1.1-8c0-.3.1-.6.1-1 .7-9.7-3.5-20-10.7-26.7-7.5-7-17.7-9.9-28.7-8.4-7.1 1-12.1 7.6-11.1 14.8 1 7.1 7.6 12.1 14.8 11.1 4.8-.7 6.7 1.1 7.3 1.6 1.6 1.5 2.5 3.9 2.5 5.5l-1.1 7.3c-1 7.1 3.9 13.7 11.1 14.8 1.4.2 2.9.2 4.3-.1z" fill="#4facfe" filter="url(#neonGlow)"/>
+    </g>
+
+    <!-- Badan Utama (Body) -->
+    <g>
+      <path d="M443.3 475.3c0 58-32.6 108.5-80.4 134.2-10.5 2.1-21.3 3.3-32.4 3.3-90.4 0-163.7-73.3-163.7-163.7 0-34 10.4-65.6 28.2-91.8 26.2-21.4 59.6-34.2 96-34.2 84-.1 152.3 68.2 152.3 152.2z" fill="#1d1d33"/>
+      <path d="M291 301.9c-14.4 0-28.5 1.8-41.9 5.1 24-13.8 51.7-21.7 81.3-21.7 90.4 0 163.7 73.3 163.7 163.7 0 53.1-25.3 100.3-64.5 130.2 21.8-29 34.7-65 34.7-104 .1-95.5-77.7-173.3-173.3-173.3z" fill="url(#suitHighlight)"/>
+      <path d="M291 323c-36.4 0-69.8 12.8-96 34.2 6.1-9 13.1-17.4 20.9-25.1 9.9-9.7 21.1-18.2 33.2-25.1 13.4-3.3 27.4-5.1 41.9-5.1 95.6 0 173.4 77.8 173.4 173.4 0 39-12.9 75-34.7 104-9.4 7.2-19.5 13.3-30.3 18.4-11.5 5.3-23.7 9.3-36.5 11.9 47.8-25.7 80.4-76.2 80.4-134.2C443.3 391.3 375 323 291 323z" fill="url(#suitGrad)"/>
+    </g>
+
+    <!-- Visor Wajah (Face Visor) dengan Efek Scan -->
+    <g mask="url(#visorMask)">
+      <path class="face-visor" d="M16.6 167c0 77.7 72.6 144.7 142.8 144.7 28.1 0 54.8-44 77.2-18 38.3-44.9 43.7-84.4 39.7-122.4-3.8-25.5-15.7-71.2-66.3-107.3-46.3-31.5-97.5-29.9-134.9-17.6C37 73.2 16.6 117 16.6 167z" fill="url(#visorGrad)" opacity="0.9" transform="translate(166 285)" filter="url(#neonGlow)"/>
+    </g>
+
+    <!-- Detail Wajah (Face) dengan Mata Berkedip -->
+    <g class="face" transform="translate(181 344)">
+      <path d="M248.7 125.6c0 4.9-.3 9.6-.9 14.3-1.6 12.4-5.2 24.2-10.5 34.9-17.2 34.8-52.1 58.6-92.2 58.6-6.9 0-13.7-.7-20.3-2.1-47.6-9.8-83.4-53.3-83.4-105.7 0-29.4 11.4-56.1 29.8-75.6 18.8-19.9 45-32.2 73.9-32.2 57.2 0 103.6 48.3 103.6 107.8z" fill="#2c2c54"/>
+      <path d="M41.4 125.6c0 52.3 35.8 95.9 83.4 105.6 48.2-3.9 86.1-45.7 86.1-96.8 0-53.7-41.9-97.2-93.5-97.2-16.8 0-32.6 4.6-46.3 12.7-18.4 19.6-29.7 46.2-29.7 75.7z" fill="#995a85"/>
+      <path d="M76.7 81.9c28.1 2.1 79.2-4.2 106-7.9 3.1-.4 5.8-.4 8.3 0 26.6 4.3 25.2 51.2 43.7 51.2 34 0 16.7-36.1 16.4-38.2-9.2-61-49.7-70.2-100.7-69.8-1.2 0-31.2-19.5-55.3-15.9-1.5.2-3.1.5-4.5 1C74.3 7 58.6 31.1 54 47.5c-4.2 15.1 2 32.8 22.7 34.4z" fill="#1d1d33"/>
+      
+      <!-- Mata Kiri -->
+      <g class="eye-left">
+        <path d="M140.1 156.8c0 3.2-2.4 5.9-5.5 6.4-.3.1-.7.1-1.1.1-3.6 0-6.5-2.9-6.5-6.5 0-2.4 1.3-4.4 3.1-5.6 1-.6 2.1-.9 3.4-.9 3.7-.1 6.6 2.9 6.6 6.5z" fill="#1d1d33"/>
+        <path d="M137.8 157.6c0 2.4-1.3 4.4-3.2 5.6-.3.1-.7.1-1.1.1-3.6 0-6.5-2.9-6.5-6.5 0-2.4 1.3-4.4 3.1-5.6.3-.1.7-.1 1.1-.1 3.7 0 6.6 2.9 6.6 6.5z" fill="#433a5f"/>
+      </g>
+
+      <!-- Mata Kanan -->
+      <g class="eye-right">
+        <path d="M67.6 136.1c0 3.6-2.9 6.5-6.5 6.5h-.5c-3.4-.2-6-3.1-6-6.5 0-2.7 1.6-5 3.9-6 .8-.4 1.7-.5 2.6-.5 3.6 0 6.5 2.9 6.5 6.5z" fill="#1d1d33"/>
+        <path d="M64.5 136.6c0 2.7-1.6 5-3.9 6-3.4-.2-6-3.1-6-6.5 0-2.7 1.6-5 3.9-6 3.4.3 6 3.1 6 6.5z" fill="#433a5f"/>
+      </g>
+
+      <path d="M86.1 134.2l-15.8 32.6c-.6 1.2.1 2.5 1.3 2.9l31.8 8.5c1.6.4 3-1.2 2.4-2.7l-16-41c-.6-1.8-2.9-1.9-3.7-.3z" fill="#824d72"/>
+      <path d="M139.9 114.2c.8-.5 2-1 3.6-1.4 1.5-.4 3.4-.6 5.4-.4.5 0 1 .1 1.5.2s1 .2 1.6.3c1 .3 2.1.7 3.1 1.2l1.5.8c.5.3.9.7 1.3 1 .9.6 1.6 1.5 2.3 2.2.7.7 1.2 1.7 1.6 2.5.5.8.8 1.6 1 2.4.2.8.5 1.5.5 2.1.1.7.1 1.1.1 1.5 0 .9-.7 1.1-1.4.5l-.9-.9c-.4-.4-1-.8-1.5-1.3-.5-.4-1-.9-1.6-1.4-.6-.4-1.1-1-1.8-1.3-.6-.4-1.2-.9-1.9-1.3-.3-.2-.7-.4-1-.6l-1.1-.5c-.7-.4-1.5-.7-2.2-1-.8-.3-1.5-.6-2.2-.9-.8-.3-1.5-.6-2.2-.8-.7-.3-1.4-.5-2.1-.7-1.4-.5-2.5-.8-3.3-1.1-.9 0-1.1-.6-.3-1.1z" fill="#1d1d33"/>
+      <ellipse fill="#a66e8a" transform="rotate(-80.91 134.338 178.235)" cx="134.338" cy="178.235" rx="6.2" ry="10.4"/>
+      <ellipse fill="#a66e8a" transform="rotate(-67.245 57.134 153.927)" cx="57.134" cy="153.927" rx="5.1" ry="7.8"/>
+      <path d="M84.5 186.7l.1.1s.1 0 .1.1c.1 0 .1.1.2.2.3.2.7.6 1.3 1 .3.2.6.4 1 .6.3.2.7.3 1.1.5.4.1.8.3 1.2.4l.6.2.6.1c.4.1.8.1 1.2.1H93c.4 0 .7-.1 1-.2.3 0 .6-.2.9-.2.3-.1.5-.1.8-.2.2-.1.4-.2.6-.2.3-.1.5-.2.5-.2 3.1-1.2 6.7.3 7.9 3.4 1.2 3.1-.3 6.7-3.4 7.9-.6.2-1.2.4-1.8.4 0 0-.4 0-1.1.1-.3 0-.7 0-1.2.1h-1.6c-.6 0-1.2 0-1.9-.2-.7-.1-1.4-.2-2.1-.4-.7-.2-1.4-.4-2.2-.7-.7-.3-1.4-.5-2.1-.9l-1-.5-.9-.6c-.6-.4-1.2-.9-1.7-1.3-.5-.5-1-.9-1.4-1.3-.4-.4-.8-.9-1.2-1.3-.7-.8-1.2-1.6-1.5-2.1-.2-.3-.3-.5-.4-.7l-.1-.2c-1-1.5-.6-3.5.9-4.5 1.5-1.4 3.5-1 4.5.5z" fill="url(#suitHighlight)"/>
+      <path d="M248.1 137c-1.4 31.1-15.1 22.5-15.1 22.5-1.5-2.3-2.1-5.1-1.6-8 .9-5.2 10.3-13.4 16.7-14.5z" fill="#2d2d44"/>
+      <path d="M254.2 161.4c-1.5 6.3-7.4 10.6-14.3 9.5-6.9-1.1-11.5-7.2-10.4-13.5 1.1-6.4 14.6-11.6 21.4-12.5 6.2-.8 5.6 6.7 3.3 16.5z" fill="#433a5f"/>
+    </g>
+  </g>
+</svg>
