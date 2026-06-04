@@ -1,28 +1,25 @@
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<!-- SOCIAL MEDIA -->
+<div align="center">
+<a href="mailto:muhiqsimui@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://id.linkedin.com/in/muhiqsimui">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/muhiqsimui/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<img src="https://img.shields.io/github/followers/muhiqsimui?style=for-the-badge&logo=github" />
 
-<!-- <img align="center"  src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/saved/sat.svg"/> -->
+<img src="./assets/banner.webp" />
 
-<img align="center"  src="assets/astroz.svg"/>
+<div >
 
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+[![Typing SVG](https://typingsvg.vercel.app/api/svg?width=1200&height=80&backgroundColor=%23000000&lines=%5B%7B%22text%22%3A%22If+you+can%27t+beat+AI+join+Them%22%2C%22color%22%3A%22%23509afb%22%2C%22fontSize%22%3A24%2C%22typingSpeed%22%3A0.05%2C%22deleteSpeed%22%3A0.025%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
 
-## Hello there, My name is Iqbal - aka [Muhiqsimui]
+</div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=fe00affo&width=600&lines=I'm+a+Programmer,Developer,Designer+and+Freelancer+💻)](https://git.io/typing-svg)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=muhiqsimui.muhiqsimui)
-
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=plastic&logo=Gmail&link=mailto:muhiqsimui@gmail.com)](mailto:muhiqsimui@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&link=https://id.linkedin.com/in/muhiqsimui)](https://id.linkedin.com/in/muhiqsimui)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-white?style=plastic&logo=instagram&link=https://www.instagram.com/muhiqsimui/)](https://www.instagram.com/muhiqsimui/)
-![hafet17 Stars](https://img.shields.io/github/stars/muhiqsimui?affiliations=OWNER&style=social)
-
-## If you can't beat AI join Them
-
-- 🎓 I’m currently learn everything :)
-- 👯 I’m looking to collaborate with other developer
-- 🥅 Goals: make AI dumb with my trash code XD
-- ⚡ Fun fact: I don't really like to code but i am programmer
+</div>
 
 <details>
   <summary>:zap: My Techstack</summary>
@@ -73,7 +70,7 @@
   <summary>:zap: GitHub Stats</summary>
  
 ## Stat Github
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
   <a>
@@ -94,6 +91,9 @@
 ![MySnake](https://github.com/muhiqsimui/muhiqsimui/raw/refs/heads/output/github-snake.svg)
 
 <div align="center">
-<h3> <del>Googling</del> <b>AI</b> is important skill for developer XD LOL  </h3>
+
+[![Typing SVG](https://typingsvg.vercel.app/api/svg?width=1200&height=200&backgroundColor=%23000000&lines=%5B%7B%22text%22%3A%22%5C%22If+you+are+not+embarrassed+by+the+first+version+of+your+product%2C%5Cn+you%E2%80%99ve+launched+too+late.%5C%22+%E2%80%94+Reid+Hoffman%22%2C%22color%22%3A%22%23509afb%22%2C%22fontSize%22%3A24%2C%22typingSpeed%22%3A0.03333333333333333%2C%22deleteSpeed%22%3A0.01%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=muhiqsimui.muhiqsimui)
 
 </div>
