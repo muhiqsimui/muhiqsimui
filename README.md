@@ -1,3 +1,14 @@
+<!-- PROFILE WING  -->
+<div align="center">
+  <a>
+    <img width="140" src="assets/left.webp">
+<img align="center" width="100" height="100" src="https://avatars.githubusercontent.com/u/33776809?v=4" style="border:2px solid black;border-radius:50%;object-fit:cover;">
+<img width="140" src="assets/right.webp">
+  </a>
+</div>
+<br>
+<!-- CLOSE  -->
+
 <!-- SOCIAL MEDIA -->
 <div align="center">
 <a href="mailto:muhiqsimui@gmail.com">
@@ -13,11 +24,7 @@
 
 <img src="./assets/banner.webp" />
 
-<div >
-
 [![Typing SVG](https://typingsvg.vercel.app/api/svg?width=1200&height=80&backgroundColor=%23000000&lines=%5B%7B%22text%22%3A%22If+you+can%27t+beat+AI+join+Them%22%2C%22color%22%3A%22%23509afb%22%2C%22fontSize%22%3A24%2C%22typingSpeed%22%3A0.05%2C%22deleteSpeed%22%3A0.025%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
-
-</div>
 
 </div>
 
@@ -71,14 +78,6 @@
  
 ## Stat Github
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<p align="center">
-  <a>
-    <img height="120" width="80" src="assets/left.png">
-<img align="center" width="100" height="100" src="https://avatars.githubusercontent.com/u/33776809?v=4" style="border:4px solid purple;border-radius:50%;object-fit:cover;">
-<img height="120" width="80" src="assets/right.png">
-  </a>
-</p>
 
 ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhiqsimui&theme=moonlight)
 
