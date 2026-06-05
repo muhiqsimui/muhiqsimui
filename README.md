@@ -22,9 +22,8 @@
 </a>
 <img src="https://img.shields.io/github/followers/muhiqsimui?style=for-the-badge&logo=github" />
 
+[![Typing SVG](https://typingsvg.vercel.app/api/svg?width=1200&height=100&backgroundColor=%23070713&cursorStyle=underline&lines=%5B%7B%22text%22%3A%22Available+for+Remote+Working%2C+You+can+email+me+on%22%2C%22font%22%3A%22Poppins%22%2C%22color%22%3A%22%2350bafb%22%2C%22fontSize%22%3A20%2C%22typingSpeed%22%3A0.025%2C%22deleteSpeed%22%3A0.01%7D%2C%7B%22text%22%3A%22muhiqsimui%40gmail.com%22%2C%22font%22%3A%22Poppins%22%2C%22color%22%3A%22%234dbbff%22%2C%22fontSize%22%3A30%2C%22letterSpacing%22%3A%220.2em%22%2C%22typingSpeed%22%3A0.05%2C%22deleteSpeed%22%3A0.01%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
 <img src="./assets/banner.webp" />
-
-[![Typing SVG](https://typingsvg.vercel.app/api/svg?width=1200&height=80&backgroundColor=%23000000&lines=%5B%7B%22text%22%3A%22If+you+can%27t+beat+AI+join+Them%22%2C%22color%22%3A%22%23509afb%22%2C%22fontSize%22%3A24%2C%22typingSpeed%22%3A0.05%2C%22deleteSpeed%22%3A0.025%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
 
 </div>
 
@@ -80,10 +79,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhiqsimui&theme=moonlight)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhiqsimui&theme=redical&hide_border=true)
-
-<img src="https://github.com/muhiqsimui/muhiqsimui/raw/main/assets/121804031-97b50f00-cc44-11eb-8fc9-3b92711e50c6.gif" />
 
 </details>
 
