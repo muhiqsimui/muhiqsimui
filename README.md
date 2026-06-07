@@ -27,6 +27,19 @@
 
 </div>
 
+## Open for Remote Roles!
+
+I am a Developer specializing in high-efficiency, zero-cost infrastructure.
+Looking for remote junior/mid-level positions worldwide.
+✉️ Contact me: muhiqsimui@email.com
+
+## Summary Project
+
+| No  | Project Description                                                                                                                                                                       | Project                                                                       |
+| --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| 1   | I built a Crypto API platform with $0/month infrastructure cost using Go Astro and GitHub Actions. I specialize in reducing cloud server bills (AWS/GCP) to zero for static data delivery | [NexaSnap](https://github.com/muhiqsimui/nexasnap)                            |
+| 2   | Starter Kit Boilerplate for Developer built with Next.js App Router, Drizzle ORM, SQLite, and NextAuth for role-based authentication.                                                     | [Starter Bolierplate](https://github.com/muhiqsimui/starter-boilerplate-next) |
+
 <details>
   <summary>:zap: My Techstack</summary>
   
