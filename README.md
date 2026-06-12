@@ -29,16 +29,17 @@
 
 ## Open for Remote Roles!
 
-I am a Developer specializing in high-efficiency, zero-cost infrastructure.
-Looking for remote junior/mid-level positions worldwide.
+Full-Stack Developer | Specialized in High-Performance Web & Automation
+
+I build high-performance web applications with a focus on lean, cost-effective infrastructure. Passionate about leveraging automation to scale efficiency and streamline workflows. Currently looking for remote Junior/Mid-level opportunities worldwide.
 ✉️ Contact me: muhiqsimui@email.com
 
 ## Summary Project
 
-| No  | Project Description                                                                                                                                                                       | Project                                                                       |
-| --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| 1   | I built a Crypto API platform with $0/month infrastructure cost using Go Astro and GitHub Actions. I specialize in reducing cloud server bills (AWS/GCP) to zero for static data delivery | [NexaSnap](https://github.com/muhiqsimui/nexasnap)                            |
-| 2   | Starter Kit Boilerplate for Developer built with Next.js App Router, Drizzle ORM, SQLite, and NextAuth for role-based authentication.                                                     | [Starter Bolierplate](https://github.com/muhiqsimui/starter-boilerplate-next) |
+| No  | Project Description                                                                                                                                                                                                          | Project                                                                       |
+| --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| 1   | high-traffic API platform with a zero-overhead infrastructure strategy, leveraging Go, Astro, and GitHub Actions. Optimizing cloud architecture to significantly reduce operational costs while maintaining peak performance | [NexaSnap](https://github.com/muhiqsimui/nexasnap)                            |
+| 2   | Starter Kit Boilerplate for Developer built with Next.js App Router, Drizzle ORM, SQLite, and NextAuth for role-based authentication.                                                                                        | [Starter Bolierplate](https://github.com/muhiqsimui/starter-boilerplate-next) |
 
 <details>
   <summary>:zap: My Techstack</summary>
